@@ -12,4 +12,4 @@
     **touch** gomme.txt
 8. **mv** gomme.txt crayons/
 9. **cd** ~
-10. **pwd**
+10. **pwd** creation
