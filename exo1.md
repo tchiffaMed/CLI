@@ -13,7 +13,7 @@
     **rm** -rf cli_tmp
 7. **mkdir** grand_parent parent grand_frere grande_soeur ami connaissances
 8. **cd** grand_frere
-9. **touch** bachir
+9. **touch** bachir.txt
 10. **mv** bachir.txt ../ami
 11. **cp** -r ../ami ../parent
 12. **rm** ../parent/ami/bachir.txt
