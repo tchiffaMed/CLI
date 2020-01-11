@@ -5,3 +5,4 @@ ________________________
 + brew install ls
 
 ls
+>cette comande affichera le contenu d'un dossier
